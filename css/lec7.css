@@ -1,0 +1,199 @@
+h1
+{
+    text-align: center;
+    font-size: 60px;
+    color:antiquewhite
+
+}
+.div1
+  {
+    width: 130px;
+    height:0px;
+    border: 2px   solid;
+    margin: auto;
+    margin-top: -35px;
+    color:antiquewhite
+  }
+  .div2
+  {
+    width: 250px;
+    height: 450px;
+    border: 2px solid;
+    color: red;
+    float:left;
+    background-color:black;
+    margin-left: 250px;
+    border-radius: 8%;
+
+  
+
+  }
+  .title2
+  {
+    text-align: center;
+    font-size: 25px;
+    color:antiquewhite
+  }
+  .Circle1
+     {
+        width: 150px;
+        height: 150px;
+        border: 2px solid;
+        border-radius: 50%;
+        color:red;
+        margin: auto  
+
+     }
+     .pc1
+       {
+        text-align: center;
+        font-size: 30px;
+        color:antiquewhite
+       }
+ .pdiv1
+     {
+  font-size: 25px;
+  color:antiquewhite;
+  text-align: center
+     }  
+.buttondiv1
+        {
+          border: 2px solid antiquewhite;
+          color:antiquewhite;
+            text-align: center;
+            margin-left: 75px;
+            background-color: black;
+        }    
+        .div3
+        {
+          width: 250px;
+          height: 450px;
+          border: 2px solid;
+          color:red;
+          float:left;
+          margin-left: 100px;
+          margin-right: 100px;
+          background-color: black;
+        border-radius: 8%;      
+        }
+        .title3
+        {
+          text-align: center;
+          font-size: 25px;
+          color:antiquewhite
+        }
+        .Circle2
+           {
+              width: 150px;
+              height: 150px;
+              border: 2px solid;
+              border-radius: 50%;
+              color:red;
+          
+              margin: auto  
+      
+           }
+           .pc2
+             {
+              text-align: center;
+              font-size: 30px;
+              color:antiquewhite
+             }
+       .pdiv2
+           {
+        font-size: 25px;
+        color:antiquewhite;
+        text-align: center
+           }  
+      .buttondiv2
+              {
+                border: 2px solid antiquewhite;
+                  color:antiquewhite;
+                  text-align: center;
+                  margin-left: 75px;
+                  background-color:black;
+                  
+              }    
+              .div4
+              {
+                width: 250px;
+                height: 450px;
+                border: 2px solid;
+                color:red;
+                background-color:black;
+                float:left;
+                border-radius: 8%;             
+            
+              }
+              .title4
+              {
+                text-align: center;
+                font-size: 25px;
+                color:antiquewhite
+              }
+              .Circle3
+                 {
+                    width: 150px;
+                    height: 150px;
+                    border: 2px solid;
+                    border-radius: 50%;
+                    color:red;
+        
+                    margin: auto  
+            
+                 }
+                 .pc3
+                   {
+                    text-align: center;
+                    font-size: 30px;
+                    color:antiquewhite
+                   }
+             .pdiv3
+                 {
+              font-size: 25px;
+              color:antiquewhite;
+              text-align: center
+                 }  
+            .buttondiv3
+                    {
+                      border: 2px solid antiquewhite;
+                      color: antiquewhite;
+                        text-align: center;
+                        margin-left: 75px;
+                        background-color: black;
+                        
+                    }    
+.parent
+    {
+        margin-top: 120px;
+  
+    }                                              
+body 
+   {
+    background-color:rgb(34, 27, 27)
+ 
+   }   
+   .div2:hover
+      { 
+        background-color:rgb(44, 42, 65)
+      }
+      .div3:hover
+      { 
+        background-color:rgb(44, 42, 65)
+      }      
+      .div4:hover
+      { 
+        background-color:rgb(44, 42, 65)
+      }
+      .buttondiv1:hover
+             {
+              background-color:rgb(44, 42, 65) 
+             }
+.buttondiv2:hover
+          {
+            background-color: rgb(44, 42, 65)
+          }
+.buttondiv3:hover
+        {
+          background-color: rgb(44, 42, 65)
+        }          

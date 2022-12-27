@@ -1,0 +1,99 @@
+body
+{
+    height: 4000px;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.contanire-Offer
+{
+    width: 80%;
+    height: 90vh;
+    margin: auto;
+}
+.title-offer
+{
+    text-align: center;
+    font-size: 45px;
+    padding-top: 100px;
+}
+.offer-line
+{
+    width: 80px;
+    height: 1px;
+    border: 2px solid;
+    background-color: black;
+    margin: auto;
+    margin-top: 8px;
+    margin-bottom: 45px;
+}
+.content-offer
+
+{
+    width: 100%;
+    height: 75%; 
+}
+.item-offer
+{
+    width: 30%;
+    height: 35%;
+    border: 1px solid;
+    position: relative;
+    float: left;  
+    margin-bottom: 25px;
+}
+.kar
+{
+    margin: 0px   4.7%;
+}
+.item-offer-info
+{
+    width: 75%;
+    height: 70%;
+    margin-left: 50px;
+    position: absolute;
+    margin-top: 15px;
+}
+.item-offer-title
+{
+    text-transform: capitalize;
+    padding-top: 25px;
+    font-size: 30px;
+}
+.item-offer-dec
+{
+    word-spacing: 2px;
+    color: gray;
+    padding-top: 10px;
+    line-height: 25px;
+}
+.item-offer i
+{
+    position: absolute;
+    left: 10px;
+    top: 40px;
+    transition: 1s;
+    font-size: 30px;
+    color: #6195ff;   
+}
+.item-offer:after
+{
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: 0;
+    right: 0;
+    background-color:black;
+    opacity: 0;
+}
+.item-offer:hover::after
+{
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    transition: 1s;
+}
